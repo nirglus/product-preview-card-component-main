@@ -27,7 +27,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: start;
-    width:200px
+    width: 223px;
 }
 .prices{
     display: flex;
@@ -45,4 +45,9 @@ body{
 .main-heading{
     font-family: 'Fraunces', serif;
     line-height: 30px;
+}
+.description{
+    color: hsl(228, 12%, 48%);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
 }
