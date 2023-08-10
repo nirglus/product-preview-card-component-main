@@ -42,3 +42,7 @@ body{
     letter-spacing: 4px;
     margin-top: 34px;
 }
+.main-heading{
+    font-family: 'Fraunces', serif;
+    line-height: 30px;
+}
