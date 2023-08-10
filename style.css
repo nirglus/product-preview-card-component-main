@@ -31,7 +31,7 @@ body{
 }
 .prices{
     display: flex;
-    gap: 19px;
+    gap: 26px;
     align-items: center;
 }
 .top-heading{
@@ -56,4 +56,10 @@ body{
     font-family: 'Fraunces', serif;
     font-size: 30px;
     color: hsl(158, 36%, 37%);
+}
+.price-before{
+    color: hsl(228, 12%, 48%);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+    text-decoration: line-through;
 }
