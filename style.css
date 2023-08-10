@@ -11,14 +11,21 @@ body{
 }
 /* Designed for 1440 px */
 .card img{ 
-    width: 22vw;
+    width: 300px;
     border-top-left-radius: 2%;
     border-bottom-left-radius: 2%;
 }
 .card{
     display: flex;
     background-color: hsl(0, 0%, 100%);
-    width: 44vw;
-    gap:3vw;
+    width: 570px;
+    gap: 28px;
     border-radius: 2%;
+    height: 55vh;
+}
+.txt-box{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width:200px
 }
