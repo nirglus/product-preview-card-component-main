@@ -33,3 +33,12 @@ body{
     display: flex;
     gap:50px
 }
+.top-heading{
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: hsl(228, 8%, 62%);
+    font-size: 14px;
+    letter-spacing: 4px;
+    margin-top: 34px;
+}
