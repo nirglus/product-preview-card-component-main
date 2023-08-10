@@ -29,3 +29,7 @@ body{
     align-items: start;
     width:200px
 }
+.prices{
+    display: flex;
+    gap:50px
+}
