@@ -9,14 +9,16 @@ body{
     margin:0;
     padding:0;
 }
+/* Designed for 1440 px */
 .card img{ 
-    width: 25vw;
-
+    width: 22vw;
+    border-top-left-radius: 2%;
+    border-bottom-left-radius: 2%;
 }
 .card{
     display: flex;
     background-color: hsl(0, 0%, 100%);
-    width: 49vw;
+    width: 44vw;
     gap:3vw;
-
+    border-radius: 2%;
 }
