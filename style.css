@@ -31,7 +31,8 @@ body{
 }
 .prices{
     display: flex;
-    gap:50px
+    gap: 19px;
+    align-items: center;
 }
 .top-heading{
     font-family: 'Montserrat', sans-serif;
@@ -50,4 +51,9 @@ body{
     color: hsl(228, 12%, 48%);
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
+}
+.sale-price{
+    font-family: 'Fraunces', serif;
+    font-size: 30px;
+    color: hsl(158, 36%, 37%);
 }
