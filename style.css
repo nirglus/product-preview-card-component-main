@@ -63,3 +63,21 @@ body{
     font-size: 11px;
     text-decoration: line-through;
 }
+.add-cart-btn img{
+    width:10px;
+}
+.add-cart-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:6px;
+    color:#fff;
+    background-color:hsl(158, 36%, 37%);
+    border: 0;
+    border-radius: 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    height:40px;
+    width: 220px;
+    margin-top: 20px;
+}
