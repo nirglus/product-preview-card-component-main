@@ -92,3 +92,10 @@ body{
     background-color: hsl(212, 21%, 14%);
     cursor: pointer;
 }
+/* Design for 375 px mobile */
+@media (min-width:320px) and (max-width:768px){
+    .card-img{
+        background-image: url(images/image-product-mobile.jpg);
+    }
+
+}
