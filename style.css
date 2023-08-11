@@ -36,8 +36,9 @@ body{
 }
 .prices{
     display: flex;
-    gap: 26px;
+    gap: 18px;
     align-items: center;
+    margin-top: 37px;
 }
 .top-heading{
     font-family: 'Montserrat', sans-serif;
