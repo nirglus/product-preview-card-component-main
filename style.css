@@ -100,8 +100,7 @@ body{
         height: 300px;
     }
     .card{
-        flex-direction: column;
-        gap:0;
+        display: block;
         width: 295px;
     }
     .txt-box{
