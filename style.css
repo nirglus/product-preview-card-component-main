@@ -103,5 +103,8 @@ body{
         flex-direction: column;
         gap:0;
     }
+    .txt-box{
+        width: 292px;
+    }
 
 }
