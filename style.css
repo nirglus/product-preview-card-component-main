@@ -10,16 +10,21 @@ body{
     padding:0;
 }
 /* Designed for 1440 px */
-.card img{ 
+.card-img{ 
     width: 300px;
+    background-image: url(images/image-product-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left:0;
     border-top-left-radius: 2%;
     border-bottom-left-radius: 2%;
 }
+
 .card{
     display: flex;
     background-color: hsl(0, 0%, 100%);
-    width: 570px;
-    gap: 28px;
+    width: 600px;
+    gap: 39px;
     border-radius: 2%;
     height: 450px;
 }
