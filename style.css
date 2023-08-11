@@ -112,7 +112,7 @@ body{
         transform: scale(0.9);
     }
     .top-heading{
-        font-size: 9px;
+        font-size: 11px;
         margin-top:0;
     }
     .main-heading{
@@ -127,6 +127,7 @@ body{
     .add-cart-btn{
         width: 280px;
         margin-top: 15px;
+        align-self: center;
     }
 
 }
