@@ -118,5 +118,8 @@ body{
     .description{
         margin:0;
     }
+    .prices{
+        margin-top: 18px;
+    }
 
 }
