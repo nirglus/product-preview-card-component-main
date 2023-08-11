@@ -124,5 +124,9 @@ body{
     .prices{
         margin-top: 18px;
     }
+    .add-cart-btn{
+        width: 280px;
+        margin-top: 15px;
+    }
 
 }
