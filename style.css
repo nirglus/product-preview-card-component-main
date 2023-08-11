@@ -38,7 +38,7 @@ body{
     display: flex;
     gap: 18px;
     align-items: center;
-    margin-top: 37px;
+    margin-top: 22px;
 }
 .top-heading{
     font-family: 'Montserrat', sans-serif;
@@ -47,7 +47,7 @@ body{
     color: hsl(228, 8%, 62%);
     font-size: 14px;
     letter-spacing: 4px;
-    margin-top: 28px;
+    margin-top: 36px;
 }
 .main-heading{
     font-family: 'Fraunces', serif;
@@ -84,9 +84,9 @@ body{
     border-radius: 5px;
     font-family: 'Montserrat', sans-serif;
     font-size: 12px;
-    height:40px;
+    height: 45px;
     width: 220px;
-    margin-top: 20px;
+    margin-top: 28px;
 }
 .add-cart-btn:hover{
     background-color: hsl(212, 21%, 14%);
