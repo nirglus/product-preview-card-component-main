@@ -51,6 +51,7 @@ body{
 .main-heading{
     font-family: 'Fraunces', serif;
     line-height: 30px;
+    margin-top: 8px;
 }
 .description{
     color: hsl(228, 12%, 48%);
