@@ -106,6 +106,14 @@ body{
     }
     .txt-box{
         width: 292px;
+        transform: scale(0.9);
+    }
+    .top-heading{
+        font-size: 9px;
+        margin-top:0;
+    }
+    .main-heading{
+        margin-top: 0;
     }
 
 }
