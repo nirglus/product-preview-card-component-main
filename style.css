@@ -94,6 +94,14 @@ body{
     box-shadow: 0 0.5em 0.5em -0.4em hsl(212, 21%, 14%);
     transform: translateY(-0.25em);
 }
+@keyframes clicked{
+    0% {transform: translateY(0);}
+  }
+  .add-cart-btn:active{
+    animation: clicked 1s;
+    transform: translateY(0);
+    transition: none;
+  }
 /* Design for 375 px mobile */
 @media (min-width:320px) and (max-width:768px){
     .card-img{
