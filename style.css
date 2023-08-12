@@ -57,6 +57,7 @@ body{
     color: hsl(228, 12%, 48%);
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
+    line-height: 21px;
 }
 .sale-price{
     font-family: 'Fraunces', serif;
