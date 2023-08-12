@@ -86,10 +86,13 @@ body{
     height: 45px;
     width: 220px;
     margin-top: 28px;
+    transition: all 1s;
 }
 .add-cart-btn:hover{
     background-color: hsl(212, 21%, 14%);
     cursor: pointer;
+    box-shadow: 0 0.5em 0.5em -0.4em hsl(212, 21%, 14%);
+    transform: translateY(-0.25em);
 }
 /* Design for 375 px mobile */
 @media (min-width:320px) and (max-width:768px){
